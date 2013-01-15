@@ -1,0 +1,7 @@
+*~
+obj/
+bin/
+moc
+*.o
+.user
+ui_*
